@@ -70,7 +70,7 @@ require("encriptar.php")
 			<h2 class="text-secondary" style="margin-bottom: 80px;">Generaci&oacute;n de Matrices y Encriptaci&oacute;n Contrase&ntilde;as</h2>
 			<div class="row justify-content-center">
 				<div class="col-12 col-sm-12 col-md-6 col-lg-5 col-xl-4 col-xxl-4" align="center">
-					<button type="button" id="generar-excel" class="btn btn-primary btn-lg w-100 mb-1">
+					<button type="button" id="generar-excel" class="btn btn-success btn-lg w-100 mb-1">
 						<br><i class='las la-10x la-th'></i>
 						<div class="mt-2 mb-4">Generar Matriz</div>
 					</button>

@@ -1,0 +1,4 @@
+# Ficheros Excel generados (exports temporales)
+# Se ignora todo excepto el .gitkeep para conservar la estructura de carpetas
+**/exports/*
+!**/exports/.gitkeep
